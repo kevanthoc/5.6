@@ -485,7 +485,7 @@ SECCIÓN 6–10 Localización de fallas
 
 **VIDEO**
  
- https://youtu.be/PG2LA583VyY
+ https://youtu.be/fGBRubRJzVA
  
 
 ***

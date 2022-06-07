@@ -89,6 +89,11 @@ configuración?
 
 La corriente que continua de R1 a R5 es medida de la misma forma
 
+10. Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 ohmios, 2.2 ohmios, 5.6 ohmios, 12 ohmios, y 22 ohmios. Determine la resistencia total.
+
+
+Rt= 1 + 2.2 12 +22 +5.6 = 42.8 Ohmios TOTALES
+
 ***
 
 SECCIÓN 5–3 Resistencia total en serie
@@ -116,53 +121,100 @@ SECCIÓN 5–3 Resistencia total en serie
 
 20. Determine la caída de voltaje a través de cada resistor mostrado en la figura 5-74.
 
+![image](https://user-images.githubusercontent.com/105686218/172363635-ed5c982a-5cdf-4c68-b2e5-b36ba804b630.png)
 
-22. Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el
+A) 
+
+I= 5.5/2200 = 0.000025 A
+I= 5.5/5600= 0.0009 A
+I= 5.5/1000= 0.0055 A
+
+
+I= 16/1M= 0.016 mA
+I= 16/560k = 0.03 mA
+i= 16/2.2M= 7.27 MICRA A
+
+
+
+
+
+22) Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el
 valor de cada resistor?
 
+V= IXR
 
-24. Determine VR1, R2 y R3 en la figura 5-76.
+R= 5V/2.23 mA
+
+R= 2.1 kohmios 
+
+
+24) Determine VR1, R2 y R3 en la figura 5-76.
 
 ![image](https://user-images.githubusercontent.com/105686218/172176884-bc58bbe6-9e16-4d77-9258-26107957ef2b.png)
 
+V= IXR 
+Vr1=12/82 = 0.14 V
 
-26. Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
+R2=12/12.3mA= 975 ohmios 
+
+R3= 2.21/12.3mA= 179 ohmios 
+
+
+26) Determine la corriente que el medidor de la figura 5-78 lee en cada posición del interruptor calibrado.
 
 ![image](https://user-images.githubusercontent.com/105686218/172176962-014d35c0-b5f6-4df8-99d8-8bb07a0bd95b.png)
 
+Rt= 151 ohmios 
 
+v= IxRt 
+
+I = V /Rt 
+
+I= 9V/151 ohmios 
+
+I= 5.96X10^(-5) A
 
 ***
 
 SECCIÓN 5–5 Fuentes de voltaje en serie
 
-28. El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una
+28) El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una
 batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+
+12V-3V= 15V
 
 
 ***
 
 SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
-30. Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
+30)  Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?
 
+SUMA TOTAL DE VOLTAJES
 
-32. Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre
+Vtotal = 26V 
+
+32) Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura 5-80. Muestre
 cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.
 
 
 ![image](https://user-images.githubusercontent.com/105686218/172177782-42012bf3-f959-43a0-8776-c1a3d6dd3df5.png)
 
+![image](https://user-images.githubusercontent.com/105686218/172364817-8811743b-5ab6-4ffb-9a42-43ed6d56bc8c.png)
 
 
-34. Encuentre R1, R2 y R3 en la figura 5-82.
+34) Encuentre R1, R2 y R3 en la figura 5-82.
 
 ![image](https://user-images.githubusercontent.com/105686218/172177339-167d5cef-f593-4f6a-ad0c-b21ff3d5b9fd.png)
 
+![image](https://user-images.githubusercontent.com/105686218/172364926-d07793d4-bd3a-490b-99f5-38865628c431.png)
 
-36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
+
+36) Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura 5-83 para cada posición del interruptor.
 
 ![image](https://user-images.githubusercontent.com/105686218/172178107-b5a74d34-ce73-47d2-bfe6-c2d8d00d3f62.png)
+
+![image](https://user-images.githubusercontent.com/105686218/172365020-177085d8-f059-4386-86b9-0639d5c880f9.png)
 
 
 
@@ -174,54 +226,176 @@ SECCIÓN 5–7 Divisores de voltaje
 
 
 
-38. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+38) Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura 5-84.
+
+![image](https://user-images.githubusercontent.com/105686218/172365084-9ed3b7ad-2964-44b1-ace3-c6c29c8eb40c.png)
 
 
-40. Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
+
+40) Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura 5-85(b).
+
+![image](https://user-images.githubusercontent.com/105686218/172365142-128444b4-d8f4-4e5b-9aeb-2b694e483254.png)
 
 
-42. En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+42) En cada punto de la figura 5-87, determine el voltaje con respecto al lado negativo de la batería.
+
+![image](https://user-images.githubusercontent.com/105686218/172365205-2f4f0660-a1de-4d59-9d17-c9d6f9e3409c.png)
 
 
 44. Con la tabla de valores estándar de resistor dada en el apéndice A, diseñe un divisor de voltaje para producir los siguientes voltajes aproximados con respecto a tierra utilizando una fuente de 30 V; 8.18 V, 14.7 V, y 24.6 V. La corriente extraída de la fuente debe limitarse a no más de 1 mA. El número de resistores, sus
 valores, y sus valores nominales de potencia en watts deben ser especificados. Se debe proporcionar un
 diagrama esquemático que muestre la disposición del circuito y la colocación de los resistores
 
+SI LA CORRIENTE ES DE 15 A
+
+30V= 15AxR 
+30V/15A= R
+R=2ohmios 
+
+8.8V=15AXR
+R=8.8/15A
+R=0.58OHM
+
+14.7V=15AXR
+R= 14.7/15A
+R=0.98OHM
+
+24.6V=15AXR
+R=24.6/15
+R=1.64OHM
+
+
+![image](https://user-images.githubusercontent.com/105686218/172368770-74b8d6f1-300e-4bd9-9bde-c7aa3e26652e.png)
+
+
+
+
 
 ***
 
 SECCIÓN 5–8 Potencia en circuitos en serie
 
-46. Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+46) Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?
+
+50mW (5resistores)= 250mW Potencia Total
 
 
-48. Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kohmios, 2.2 kohmios, 3.9 kohmios, y 5.6 kohmios. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+48) Los siguientes resistores de 1⁄4 W están dispuestos en serie: 1.2 kohmios, 2.2 kohmios, 3.9 kohmios, y 5.6 kohmios. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+Rt= 12.9K ohm 
+
+PxR =V^2
+
+1/4W X 12.9 K OHM = V^2
+
+3225 V^2= V^2
+
+V= 57 V
+
+50) Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 ohmios. Si cada uno de los resistores opera en el circuito a su máxima disipaciónde potencia, determine lo siguiente:
+
+(a) I 
+
+Pt = 0.875 W
+
+PXR=V^2
+
+0.875 W X 2.4 KOHM = V^2
+
+V= 46 V
+
+P=IXV
+
+I= 0.875 W /46V
+
+I= 0.02 A
+
+(b) Vt
+
+Pt = 0.875 W
+
+PXR=V^2
+
+0.875 W X 2.4 KOHM = V^2
+
+V= 46 V
 
 
-50. Cierto circuito en serie se compone de un resistor de 1⁄8 W, un resistor de 1⁄4 W, y un resistor de 1⁄2 W. La resistencia total es de 2400 ohmios. Si cada uno de los resistores opera en el circuito a su máxima disipaciónde potencia, determine lo siguiente:
-(a) I (b) (c) VT El valor de cada resistor
+(c) VT El valor de cada resistor
+
+
+
+PXR=V^2
+
+1/8 W X 2.4 KOHM = V^2
+
+V= 17.3 V
+
+
+PXR=V^2
+
+1/4 W X 2.4 KOHM = V^2
+
+V= 24 V
+
+
+
+PXR=V^2
+
+1/2 W X 2.4 KOHM = V^2
+
+V= 5 V
+
 
 
 
 ***
 SECCIÓN 5–9 Mediciones de voltaje
 
-52. En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
+52) En la figura 5-91, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?
 
 ![image](https://user-images.githubusercontent.com/105686218/172178834-9de2b115-bf6a-41ea-b43c-5062c53b87dc.png)
+
+VR2= 
+
+15v-9v = 6v
+
+1MOHM
+
+V= IXR 
+
+I = 6V/1MOHM
+
+V= IxR
+
+Vt= 6 fi V
+
+
+Vx = Vs/Rt x Rx
+
+Vx= 6 fi V/1 Mohm  x 560 komk 
+
+VR2= 3,36 fi V
 
 
 ***
 SECCIÓN 5–10 Localización de fallas
 
-54. Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los
+54)  Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los
 resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?
+
+
+El voltaje que medira es de 12 V 
+
+La resistencia 1, 3 , 4 estan o mal conecvtadas o quemadas
 
 
 56. ¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?
 
 ![image](https://user-images.githubusercontent.com/105686218/172178834-9de2b115-bf6a-41ea-b43c-5062c53b87dc.png)
 
+
+33.3 mA es la Coreriente ya que a ser un circuito en serie la corriente es continua 
 
 
 *58. Se leen 15 kohmios entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo.
@@ -491,7 +665,9 @@ SECCIÓN 6–10 Localización de fallas
 ***
 
 **CONCLUSIONES**
+• Podemos concluir que por medio de los diferentes tipos de implementaciones que se han ido desarrollando para la facilidad y accesibilidad para el análisis distinto de las características que tiene un circuito desde el avance de programas que ayudan con la medicion de circuitos tanto en serie como en paralelo. 
 
+• Gracias a los diferentes tipos de simuladores que podemos encontrar en el internet podemos determinar y cuantificar de manera mucho más sencilla una simulación de la vida cotidiana y así tener un valor más exacto de cuánto será la medida exacta de lo que midamos
 
 
 ***

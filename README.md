@@ -65,6 +65,10 @@ Tema: **“CIRCUITOS EN SERIE - CIRCUITOS EN PARALELO ”**
 
 ***
 
+EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
+
+***
+
 SECCIÓN 5–1 Resistores en serie
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
